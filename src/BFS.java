@@ -20,7 +20,7 @@ public class BFS extends JFrame {
 
 
     public BFS(int[][] adjacencyMatrix) {
-        setTitle("Node Graph");
+        setTitle("BFS");
 
         setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
 

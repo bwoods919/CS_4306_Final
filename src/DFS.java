@@ -20,7 +20,7 @@ public class DFS extends JFrame {
 
 
     public DFS(int[][] adjacencyMatrix) {
-        setTitle("Node Graph");
+        setTitle("DFS");
 
         setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
 
